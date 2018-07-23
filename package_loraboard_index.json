@@ -116,7 +116,7 @@
         {
           "boards": [
             {
-              "name": "LoRaBoard M0"
+              "name": "LoRaBoard"
             }
           ],
           "architecture": "samd",
