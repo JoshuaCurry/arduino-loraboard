@@ -122,9 +122,9 @@
           "architecture": "samd",
           "name": "LoRaBoard M0 Boards",
           "category": "test",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "archiveFileName": "loraboard-1.0.0.tar.bz2",
-          "checksum": "SHA-256:237f19e6d99f0e377c5fd69328608d7fc3642c552b08d72a8931240d1c8c1187",
+          "checksum": "SHA-256:46d9cb2a66a90cc394a7f3d4720bf98f2e12b10c84ae53c5cf1d2722481d4464",
           "help": {
             "online": "https://forums.localhost"
           },
