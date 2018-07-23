@@ -101,11 +101,11 @@
       "category": "Adafruit",
       "version": "1.0.7",
       "archiveFileName": "loraboard-1.0.0.tar.bz2",
-      "checksum": "SHA-256:646a3b729464fc48c19fdfd58aad6eee2537c524c1eff2f48712f12194c89733",
+      "checksum": "SHA-256:f79a62393bae6ad3a421669de6996fe9964cd426cea77da90fb1e8cd7d2a7a9c",
       "help": {
         "online": "https://forums.localhost"
       },
-      "url": "https://joshuacurry.github.io/arduino-loraboard/loraboard-1.0.0.tar.bz2",
+      "url": "https://raw.githubusercontent.com/JoshuaCurry/arduino-loraboard/master/loraboard-1.0.0.tar.bz2",
       "toolsDependencies": [{
         "name": "arm-none-eabi-gcc",
         "packager": "arduino",
