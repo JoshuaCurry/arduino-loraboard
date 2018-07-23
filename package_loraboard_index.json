@@ -120,9 +120,9 @@
             }
           ],
           "architecture": "samd",
-          "name": "Adafruit SAMD Boards",
-          "category": "Adafruit",
-          "version": "1.0.7",
+          "name": "LoRaBoard M0 Boards",
+          "category": "test",
+          "version": "1.0.0",
           "archiveFileName": "loraboard-1.0.0.tar.bz2",
           "checksum": "SHA-256:5d22b28e1f3e172b76e00debaabf2a1bb9254e42525f7b858be2dde60b3db4e1",
           "help": {
