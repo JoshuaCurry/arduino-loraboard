@@ -122,7 +122,7 @@
           "architecture": "samd",
           "name": "LoRaBoard M0 Boards",
           "category": "test",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "archiveFileName": "loraboard-1.0.0.tar.bz2",
           "checksum": "SHA-256:8d73c3354217956becf7e4019fd240dcc21adca274e7afbaa3a280a8c8f3406d",
           "help": {
