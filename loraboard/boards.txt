@@ -19,6 +19,10 @@ menu.cache=Cache
 # Adafruit Circuit Playground M0
 # ------------------------------
 loraboard.name=LoRaBoard
+loraboard.vid.0=0x1bda
+loraboard.pid.0=0xe185
+loraboard.vid.1=0x1bda
+loraboard.pid.1=0xe185
 loraboard.upload.tool=bossac
 loraboard.upload.protocol=sam-ba
 loraboard.upload.maximum_size=262144
@@ -37,6 +41,6 @@ loraboard.build.ldscript=linker_scripts/gcc/flash_with_bootloader.ld
 loraboard.build.openocdscript=openocd_scripts/arduino_zero.cfg
 loraboard.build.variant=loraboard
 loraboard.build.variant_system_lib=
-loraboard.build.vid=0x239A
-loraboard.build.pid=0x8018
+loraboard.build.vid=0x1bda
+loraboard.build.pid=0xe185
 loraboard.bootloader.tool=openocd
